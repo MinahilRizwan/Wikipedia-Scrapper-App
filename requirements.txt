@@ -1,0 +1,7 @@
+streamlit
+wikipedia
+beautifulsoup4
+requests
+pandas
+google-generativeai
+
